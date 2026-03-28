@@ -1,0 +1,219 @@
+[
+  {
+    "disease": "Common Cold",
+    "symptoms": ["cough", "sneezing", "runny nose", "sore throat", "mild fever"],
+    "medicine": ["Paracetamol", "Antihistamines (e.g., Cetirizine)", "Decongestants"],
+    "first_aid": "Rest, stay hydrated, and drink warm fluids.",
+    "home_remedy": "Ginger tea with honey, steam inhalation.",
+    "precaution": "Avoid cold foods and drinks, wash hands frequently, stay warm.",
+    "severity": "Low"
+  },
+  {
+    "disease": "Influenza (Flu)",
+    "symptoms": ["high fever", "chills", "muscle aches", "fatigue", "dry cough", "headache"],
+    "medicine": ["Antiviral drugs (e.g., Oseltamivir)", "Ibuprofen", "Paracetamol"],
+    "first_aid": "Get plenty of rest and drink plenty of liquids.",
+    "home_remedy": "Chicken soup, warm baths to reduce fever, herbal teas.",
+    "precaution": "Isolate from others, wear a mask, cover mouth when coughing.",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Food Poisoning",
+    "symptoms": ["nausea", "vomiting", "diarrhea", "stomach cramps", "fever"],
+    "medicine": ["Oral Rehydration Salts (ORS)", "Loperamide (if advised by doctor)", "Antiemetics"],
+    "first_aid": "Stop eating for a few hours. Gradually sip water or clear liquids.",
+    "home_remedy": "Ginger tea, eating bland foods (BRAT diet: bananas, rice, applesauce, toast).",
+    "precaution": "Avoid dairy, caffeine, alcohol, and spicy/fatty foods until fully recovered.",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": ["severe headache", "nausea", "vomiting", "sensitivity to light", "sensitivity to sound", "throbbing pain"],
+    "medicine": ["Triptans (e.g., Sumatriptan)", "Ibuprofen", "Naproxen"],
+    "first_aid": "Rest in a quiet, dark room. Apply a cold or warm compress to the head or neck.",
+    "home_remedy": "Acupressure, drinking plenty of water, consuming a small amount of caffeine.",
+    "precaution": "Identify and avoid triggers (e.g., certain foods, stress, lack of sleep, bright lights).",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Allergic Rhinitis (Hay Fever)",
+    "symptoms": ["sneezing", "itchy nose", "itchy eyes", "watery eyes", "stuffy nose", "postnasal drip"],
+    "medicine": ["Antihistamines (e.g., Loratadine)", "Nasal corticosteroids (e.g., Fluticasone)", "Decongestants"],
+    "first_aid": "Rinse nasal passages with a saline solution.",
+    "home_remedy": "Consuming local honey, using an air purifier, inhaling steam with eucalyptus oil.",
+    "precaution": "Keep windows closed during high pollen seasons, shower after being outdoors.",
+    "severity": "Low"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": ["shortness of breath", "chest tightness", "wheezing", "coughing fits", "rapid breathing"],
+    "medicine": ["Bronchodilator inhalers (e.g., Albuterol)", "Inhaled corticosteroids"],
+    "first_aid": "Sit upright and take slow, deep breaths. Administer rescue inhaler immediately.",
+    "home_remedy": "Caffeinated coffee or tea (mild bronchodilator effect in emergencies), mustard oil massage on chest.",
+    "precaution": "Avoid triggers (dust, smoke, cold air, pet dander), always carry a rescue inhaler.",
+    "severity": "High"
+  },
+  {
+    "disease": "Dengue Fever",
+    "symptoms": ["sudden high fever", "severe headache", "pain behind eyes", "joint pain", "muscle pain", "skin rash", "mild bleeding"],
+    "medicine": ["Paracetamol (Avoid NSAIDs like Ibuprofen/Aspirin)"],
+    "first_aid": "Strict bed rest, continuous fluid intake.",
+    "home_remedy": "Papaya leaf extract (may help increase platelet count), coconut water.",
+    "precaution": "Use mosquito nets, wear long sleeves, apply mosquito repellent, eliminate standing water.",
+    "severity": "High"
+  },
+  {
+    "disease": "Acid Reflux (GERD)",
+    "symptoms": ["heartburn", "chest pain", "difficulty swallowing", "regurgitation of food", "sour liquid in mouth"],
+    "medicine": ["Antacids (e.g., Tums)", "H2 Blockers (e.g., Famotidine)", "Proton Pump Inhibitors (e.g., Omeprazole)"],
+    "first_aid": "Stand up straight, loosen tight clothing, elevate head while resting.",
+    "home_remedy": "Chewing gum, mixing baking soda in water (temporary relief), drinking aloe vera juice.",
+    "precaution": "Eat smaller meals, avoid lying down immediately after eating, avoid spicy and fatty foods.",
+    "severity": "Low"
+  },
+  {
+    "disease": "Pink Eye (Conjunctivitis)",
+    "symptoms": ["red eyes", "itchiness", "gritty feeling in eyes", "discharge from eye", "crusting eyelids"],
+    "medicine": ["Antibiotic eye drops (if bacterial)", "Antihistamine eye drops (if allergic)", "Artificial tears"],
+    "first_aid": "Apply a cold or warm damp compress over the affected eye.",
+    "home_remedy": "Rose water eye washes (ensure purity), applying cooled chamomile tea bags.",
+    "precaution": "Wash hands frequently, avoid touching/rubbing eyes, do not share towels or pillows.",
+    "severity": "Low"
+  },
+  {
+    "disease": "Gastroenteritis (Stomach Flu)",
+    "symptoms": ["watery diarrhea", "abdominal cramps", "nausea", "vomiting", "muscle aches", "low-grade fever"],
+    "medicine": ["Oral Rehydration Salts (ORS)", "Anti-diarrheal medication (Loperamide)", "Probiotics"],
+    "first_aid": "Stop solid foods, hydrate frequently with small sips of water or electrolyte solutions.",
+    "home_remedy": "Mint, ginger, BRAT diet when eating resumes.",
+    "precaution": "Wash hands thoroughly with soap, avoid contaminated water or food.",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Malaria",
+    "symptoms": ["moderate to severe shaking chills", "high fever", "profuse sweating", "headache", "nausea", "vomiting"],
+    "medicine": ["Antimalarial drugs (e.g., Artemisinin-based combination therapies (ACTs), Chloroquine)"],
+    "first_aid": "Ensure complete bed rest and manage fever with cold compresses.",
+    "home_remedy": "Cinnamon tea, fresh fruit juices to boost immunity (medical treatment is mandatory).",
+    "precaution": "Sleep under insecticide-treated mosquito nets, use bug spray, take prophylactic meds when traveling.",
+    "severity": "High"
+  },
+  {
+    "disease": "Tension Headache",
+    "symptoms": ["dull aching head pain", "sensation of tightness across forehead", "tenderness on scalp or neck muscles"],
+    "medicine": ["Ibuprofen", "Acetaminophen", "Aspirin"],
+    "first_aid": "Massage scalp and temples, practice deep breathing to relax.",
+    "home_remedy": "Peppermint oil application on temples, applying a heating pad to neck and shoulders.",
+    "precaution": "Manage stress, correct seating posture, stay hydrated.",
+    "severity": "Low"
+  },
+  {
+    "disease": "Typhoid Fever",
+    "symptoms": ["prolonged high fever", "weakness", "stomach pain", "headache", "diarrhea or constipation", "loss of appetite"],
+    "medicine": ["Antibiotics (e.g., Ciprofloxacin, Azithromycin)", "Paracetamol for fever"],
+    "first_aid": "Sponge baths to lower body temperature, strict bed rest.",
+    "home_remedy": "Drinking boiled water, consuming soft bland foods like boiled potatoes or rice gruel.",
+    "precaution": "Ensure safe drinking water, practice good hygiene, avoid street food in endemic areas.",
+    "severity": "High"
+  },
+  {
+    "disease": "Chickenpox",
+    "symptoms": ["itchy blister-like rash", "fever", "tiredness", "loss of appetite", "headache"],
+    "medicine": ["Calamine lotion", "Antihistamines to relieve itching", "Acetaminophen (Do NOT use Aspirin in children)"],
+    "first_aid": "Keep fingernails trimmed short to avoid scratching and secondary infections.",
+    "home_remedy": "Oatmeal baths, applying baking soda paste to lesions.",
+    "precaution": "Highly contagious; isolate the patient until all blisters have scabbed over.",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Pneumonia",
+    "symptoms": ["cough with phlegm or pus", "fever", "chills", "difficulty breathing", "chest pain when breathing or coughing"],
+    "medicine": ["Antibiotics (if bacterial)", "Antiviral medication (if viral)", "Cough medicine", "Fever reducers"],
+    "first_aid": "Immediate medical attention required. Provide supplemental oxygen if available and needed.",
+    "home_remedy": "Drink warm liquids, inhale steam, perform deep breathing exercises as pain tolerates.",
+    "precaution": "Get vaccinated (Pneumococcal, Flu), practice good hygiene, quit smoking.",
+    "severity": "High"
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": ["cough", "mucus", "fatigue"],
+    "medicine": ["Cough syrup"],
+    "first_aid": "Rest",
+    "home_remedy": "Steam inhalation",
+    "precaution": "Avoid smoking",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Tuberculosis",
+    "symptoms": ["cough", "weight loss", "night sweats"],
+    "medicine": ["Rifampicin"],
+    "first_aid": "Consult doctor",
+    "home_remedy": "Nutrition",
+    "precaution": "Avoid contact",
+    "severity": "High"
+  },
+  {
+    "disease": "Chickenpox",
+    "symptoms": ["rash", "fever", "itching"],
+    "medicine": ["Antihistamines"],
+    "first_aid": "Isolation",
+    "home_remedy": "Oatmeal bath",
+    "precaution": "Vaccination",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Measles",
+    "symptoms": ["rash", "fever", "cough"],
+    "medicine": ["Vitamin A"],
+    "first_aid": "Rest",
+    "home_remedy": "Fluids",
+    "precaution": "Vaccination",
+    "severity": "High"
+  },
+
+  {
+    "disease": "Food Poisoning",
+    "symptoms": ["vomiting", "diarrhea", "stomach pain"],
+    "medicine": ["ORS"],
+    "first_aid": "Hydration",
+    "home_remedy": "Ginger",
+    "precaution": "Clean food",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Gastritis",
+    "symptoms": ["stomach pain", "nausea"],
+    "medicine": ["Antacids"],
+    "first_aid": "Avoid spicy food",
+    "home_remedy": "Cold milk",
+    "precaution": "Healthy diet",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Ulcer",
+    "symptoms": ["burning stomach pain"],
+    "medicine": ["Omeprazole"],
+    "first_aid": "Consult doctor",
+    "home_remedy": "Banana",
+    "precaution": "Avoid alcohol",
+    "severity": "High"
+  },
+  {
+    "disease": "Anemia",
+    "symptoms": ["fatigue", "pale skin"],
+    "medicine": ["Iron tablets"],
+    "first_aid": "Balanced diet",
+    "home_remedy": "Spinach",
+    "precaution": "Iron-rich food",
+    "severity": "Medium"
+  },
+  {
+    "disease": "Arthritis",
+    "symptoms": ["joint pain", "stiffness"],
+    "medicine": ["Pain relievers"],
+    "first_aid": "Rest joints",
+    "home_remedy": "Warm compress",
+    "precaution": "Exercise",
+    "severity": "Medium"
+  }
+]
